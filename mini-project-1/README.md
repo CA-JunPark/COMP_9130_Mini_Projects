@@ -30,13 +30,12 @@ The dataset contains only numerical features and does not include missing values
 
 ### Setup instructions
 
-git clone <this repo>
-
-cd cd COMP_9130_Mini_Projects
-cd mini-project-1
-python -m venv .venv
-source .venv/Scripts/activate or .venv/bin/activate
-pip install -r requirements.txt
+    git clone <this repo>
+    cd cd COMP_9130_Mini_Projects
+    cd mini-project-1
+    python -m venv .venv
+    source .venv/Scripts/activate or .venv/bin/activate
+    pip install -r requirements.txt
 
 run .ipynb files with created python environment.
 
