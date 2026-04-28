@@ -1,3 +1,24 @@
 [submodule "mini-project-1"]
 	path = mini-project-1
 	url = https://github.com/CA-JunPark/mini-project-1.git
+[submodule "mini-project-2"]
+	path = mini-project-2
+	url = https://github.com/CA-JunPark/mini-project-2.git
+[submodule "mini-project-3"]
+	path = mini-project-3
+	url = https://github.com/CA-JunPark/mini-project-3.git
+[submodule "mini-project-4"]
+	path = mini-project-4
+	url = https://github.com/CA-JunPark/mini-project-4.git
+[submodule "mini-project-5"]
+	path = mini-project-5
+	url = https://github.com/CA-JunPark/mini-project-5.git
+[submodule "mini-project-7"]
+	path = mini-project-7
+	url = https://github.com/CA-JunPark/mini-project-7.git
+[submodule "mini-project-8"]
+	path = mini-project-8
+	url = https://github.com/CA-JunPark/mini-project-8.git
+[submodule "mini-project-9"]
+	path = mini-project-9
+	url = https://github.com/CA-JunPark/mini-project-9.git
